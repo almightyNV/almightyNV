@@ -19,8 +19,9 @@
 
 
 # 💫 About Me:<br>
-- I’m looking forward to working on Web Development projects.<br>
-- 📫 How to reach me:  nishant.vilkar@gmail.com.
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: nishant.vilkar@gmail.com<br/><br/>
 
 
 ## 🌐 Socials:
