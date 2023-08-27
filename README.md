@@ -19,7 +19,6 @@
 
 
 # 💫 About Me:<br>
-🌱 A Software engineer based in <b>INDIA</b></b><br>
 - I’m looking forward to working on Web Development projects.<br>
 - 📫 How to reach me:  nishant.vilkar@gmail.com.
 
